@@ -1,0 +1,48 @@
+_repo: Plutarch-s-Lives-Volume-II_14114
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+  - agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcc 'DE'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+tableOfContents: Life of Pelopidas -- Life of Marcellus -- Comparison of Pelopidas
+  with Marcellus -- Life of Aristeides -- Life of Marcus Cato -- Comparison of Aristeides
+  and Cato -- Life of Philopoemen -- Life of Titus Flamininus -- Comparison of Philopoemen
+  and Titus -- Life of Pyrrhus -- Life of Caius Marius -- Life of Lysander -- Life
+  of Sulla -- Comparison of Lysander and Sulla -- Life of Kimon -- Life of Lucullus
+  -- Comparison of Kimon and Lucullus.
+title: Plutarch's Lives, Volume 2 (of 4)
+url: http://www.gutenberg.org/ebooks/14114
